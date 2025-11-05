@@ -2,6 +2,7 @@
   "expo": {
     "name": "project",
     "slug": "project",
+    "owner": "the_champions",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -41,7 +42,8 @@
           }
         }
       ],
-      "expo-font"
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
@@ -50,7 +52,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "f92016d4-2dfb-4b12-bc60-5cb653069886"
+        "projectId": "113fb558-ad89-405d-ab8d-a96cedbe2de8"
       }
     }
   }

@@ -17,20 +17,20 @@ This application demonstrates:
 
 ## 🛠️ Tech Stack
 
-| Component | Tool / Framework |
-|---------|------------------|
-| UI Framework | React Native |
-| Runtime / Bundler | Expo |
-| App Navigation | Expo Router / React Navigation |
-| Asset Handling | Expo Asset & Image |
-| Platform Support | Android & iOS |
+| Component         | Tool / Framework       |
+|------------------|------------------------|
+| UI Framework      | React Native           |
+| Runtime / Bundler | Expo                   |
+| App Navigation    | Expo Router / React Navigation |
+| Asset Handling    | Expo Asset & Image     |
+| Platform Support  | Android & iOS          |
 
 ---
 
 ## 📸 Screens Overview
 
-- **Home Screen** – Wallpaper gallery grid
-- **Wallpaper Preview Screen** – Full-screen preview
+- **Home Screen** – Wallpaper gallery grid  
+- **Wallpaper Preview Screen** – Full-screen preview  
 - Additional UI elements implemented with attention to detail such as:
   - Font weights & sizes
   - Line spacing
@@ -78,28 +78,23 @@ eas build -p android --profile preview
 
 After build completes, upload your APK link here:
 
-**🔗 APK Download:** _To be added_
+**🔗 APK Download:** [App Url_](https://appetize.io/app/b_yilxeopugdghtxcahbjv7nagfy)
 
 ---
 
 ## 🎥 Demo Video
 
-**🎞 Demo Video Link:** _To be added_
+**🎞 Demo Video Link:** [Video Demo](https://drive.google.com/file/d/1d03D8NPeELyK4K9WwN--MT3W9hIEQPLc/view?usp=sharing)
 
 ---
 
 ## 🎨 Figma Design
 
-**Figma Link:** _Add provided UI reference here_
+**Figma Link:** [Link to Figma_](https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR?node-id=0-1&p=f&t=ZZegIJoFEQmn3qBl-0)
 
 ---
 
-## 🖼️ Screenshots (Optional)
 
-```
-assets/screenshots/home.png
-assets/screenshots/preview.png
-```
 
 ---
 
